@@ -2,8 +2,9 @@
 <img align='right' src="https://i.pinimg.com/originals/fb/60/3e/fb603e7db49ac9b0ce7f055d657ca288.gif" width='250'>
 
 <p align="left"> 
-Sou profissional da área de Tecnologia Educacional, apaixonada por criar soluções que conectam pessoas, aprendizagem e tecnologia.
-Minha atuação combina análise de sistemas, otimização de processos, experiência do usuário e design, buscando transformar ideias em experiências mais eficientes, intuitivas e impactantes.
+I am passionate about the intersection of Technology, Education and Design.
+
+My work focuses on leveraging technology to create impactful learning experiences, optimize processes, and transform data into actionable insights. Beyond technology, I am an enthusiastic Graphic Design practitioner who enjoys combining creativity with analytical thinking to build engaging digital experiences.
 </p>
 
 
